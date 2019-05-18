@@ -16,11 +16,11 @@ The commands that are currently supported are:
   - Example: `node app.js list`
 - `read`
   - Reads a note.
-  - Parameters need is `--title`. 
+  - Parameter need is `--title`. 
   - Example: `node app.js read --title="title goes here"`.
 - `remove`
   - Removes a note.
-  - Parameters need is `--title`. 
+  - Parameter need is `--title`. 
   - Example: `node app.js remove --title="title goes here"`.
   
   
