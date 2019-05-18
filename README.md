@@ -1,5 +1,5 @@
 # Note-App
-Command line note app based on node.js
+A Command line note app based on node.js
 
 
 ## Instructions
