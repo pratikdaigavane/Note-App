@@ -11,7 +11,7 @@ The commands that are currently supported are:
   - Parameters need are `--title` and `--body`. 
   - Example: `node app.js add --title="title goes here" --body="body goes here"`
 - `list`
-  - Adds a note.
+  - All the notes are listed.
   - No parameters are needed. 
   - Example: `node app.js list`
 - `read`
